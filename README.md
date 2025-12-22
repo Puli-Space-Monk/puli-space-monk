@@ -2,7 +2,7 @@
 
 **First animated series made exclusively with Grok (also known as XAI)**
 
-Created entirely by **TAY** — story, music, voices, and animation.
+Created entirely by **TAY!** — story, music, voices, and animation.
 
 Episode 1 is available here: [YouTube](https://youtu.be/OY8-_9eeFy0)
 
