@@ -13,5 +13,5 @@ This is the **first-ever animation series made exclusively with Grok**.
 
 ## Notes
 Documented for archival and provenance purposes.  
-Website: https://tay.com.tw  
-Set in Puli, Taiwan.
+Website: https://TAY.com.tw  
+Main character (female monk) comes from Puli, Taiwan.
