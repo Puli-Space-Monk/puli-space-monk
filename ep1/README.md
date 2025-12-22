@@ -6,7 +6,7 @@
 **Animation generated using Grok**
 
 ## Claim
-This is the **first-ever animation series made exclusively with Grok**.
+This is the **first-ever animation series made exclusively with Grok (also known as xAI)**.
 
 ## Video
 [Watch Episode 1 video](https://youtu.be/OY8-_9eeFy0)
