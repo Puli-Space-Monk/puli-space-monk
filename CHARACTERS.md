@@ -8,7 +8,7 @@
 
 ### Xinran (The Protagonist)
 ![Xinran 3D](Xinran_3D.jpg)
-![Xinran Anime](Xinran_Anime.jpg)
+![Xinran Anime](Xinran_Anime.jpeg)
 ![Xinran Anime Side Profile](Xinran_Anime_Side_Profile.jpg)
 * **Origin:** Puli, Taiwan
 * **Bio:** A space monk traveling the galaxy, blending ancient spiritual wisdom with survival instincts. She is the biological key required to cross intergalactic thresholds.
@@ -24,7 +24,7 @@
 * **Bio:** An American explorer found adrift in the void. A loyal companion navigating the stars alongside the monk.
 
 ### Mr. Bubble Tea (Space Cat)
-![Mr. Bubble Tea](Mr_Bubble_Tea.jpg)
+![Mr Bubble Tea](Mr_Bubble_Tea.jpg)
 * **Bio:** The feline navigator. Essential for morale and chaotic charm.
 
 ### Tusk (The Ancient Guardian)
@@ -44,5 +44,5 @@
 * **Bio:** The terrifying Robot Boss of the Blood Red Galaxy who captures monks to harvest their life source.
 
 ### Unit V-29 (The Assassin)
-![V-29 3D](V-29_3D.jpg)
+![V-29 3D](V-29_3D.jpeg)
 * **Bio:** A cold and glitching enforcer named for the screech of his V.29 communication protocol.
