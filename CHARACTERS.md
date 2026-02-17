@@ -1,10 +1,10 @@
-# Puli Space Monk: Official Character & IP Archive
+# Puli Space Monk: The World’s First Grok Animated Series
 **Creator:** TAY  
-**Status:** The World's First Series Created with Grok xAI Video Animation  
+**Status:** The World's First Animated Show and World's First Show Created with Grok xAI Video Animation  
 
 ---
 
-Puli Space Monk is the first animated series ever created using Grok exclusively for video animation. This project pushes the boundaries of generative storytelling by using xAI's technology to visualize a universe that was previously impossible to film.
+Puli Space Monk is the world’s first animated show ever created using Grok exclusively for video animation. This project pushes the boundaries of generative storytelling, standing as the world’s first show created with xAI's technology to visualize a universe that was previously impossible to film.
 
 In this universe, technology has conquered the stars, but it cannot conquer the boundaries between them. There is a cosmic safeguard written into the fabric of space itself that prevents artificial intelligence from crossing intergalactic thresholds alone. To pass through the void between galaxies, a machine requires a biological signature. They need a human.
 
