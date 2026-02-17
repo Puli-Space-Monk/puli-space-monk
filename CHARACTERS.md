@@ -14,7 +14,7 @@ This is the story of Xinran, a monk from Puli, Taiwan, who travels beyond time a
 
 ## THE CREW
 
-### Xinran (The Protagonist)
+### Xinran / 心然 (The Protagonist)
 ![Xinran 3D](Xinran_3D.jpg)
 ![Xinran Anime](Xinran_Anime.jpeg)
 ![Xinran Anime Side Profile](Xinran_Anime_Side_Profile.jpg)
