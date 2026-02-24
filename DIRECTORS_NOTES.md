@@ -173,12 +173,10 @@ It's hard making a show by yourself. It's not just the audio and the editing and
 
 But I love the little world I created and the characters. Even if it never gets popular or big it's still quite magical and special to me.  
 
-<br>
-<br>
 
 ---
 
 > "Just as space contains all the sun and the moon and the stars, and the people and the mountains and the forests, so the nature of mind, the nature of consciousness, the nature of one's self, contains all these things." — **Alan Watts**
 
 ---
-*Documented by Tay – Director of Puli Space Monk*
+*Documented by TAY! – Director of Puli Space Monk*
