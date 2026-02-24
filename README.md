@@ -1,11 +1,20 @@
 # Puli Space Monk | 埔里星僧
+**The World’s First Show / First Animated Show made exclusively with Grok (xAI) video animation**
 
-**First animated series made exclusively with Grok (also known as XAI)**
+Created entirely by TAY! — story, music, voices, and animation.
 
-Created entirely by **TAY!** — story, music, voices, and animation.
+---
 
-Episode 1 is available here: [YouTube](https://youtu.be/OY8-_9eeFy0)
+Watch the show here: [YouTube](https://www.youtube.com/@PuliSpaceMonk)
 
-Official website: [TAY.com.tw](https://tay.com.tw)
+Official website: [TAY.com.tw](http://TAY.com.tw)
 
-A short animated series following a female monk from Puli, Taiwan, exploring her journey in space-themed adventures. This repo documents the series for provenance and reference purposes.
+---
+
+This repository documents the project for provenance and historical reference. Puli Space Monk is a short animated series following a female monk from Puli, Taiwan, exploring her journey in space-themed adventures. This is the record of the first full season of a show completed by one person using Grok/xAI video animation.
+
+* [Character Archive & Episode Log](CHARACTERS.md)
+* [Director's Notes: Behind the Scenes](DIRECTORS_NOTES.md)
+
+---
+Documented by TAY! – Director of Puli Space Monk
