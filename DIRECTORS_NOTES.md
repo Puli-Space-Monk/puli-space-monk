@@ -175,9 +175,6 @@ But I love the little world I created and the characters. Even if it never gets 
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ---
 
