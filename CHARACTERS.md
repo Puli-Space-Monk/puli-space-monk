@@ -1,6 +1,5 @@
-# Puli Space Monk: The World’s First Grok Animated Series
-**Creator:** TAY  
-**Status:** The World's First Animated Show and World's First Show Created with Grok xAI Video Animation  
+# Puli Space Monk: Character Archive & Episode Log
+**The World’s First Show Created with Grok xAI Video Animation**
 
 ---
 
@@ -14,7 +13,7 @@ This is the story of Xinran, a monk from Puli, Taiwan, who travels beyond time a
 
 ## THE CREW
 
-### Xinran / 心然 (The Protagonist)
+### Xinran / 心然 (The Puli Space Monk)
 ![Xinran 3D](Xinran_3D.jpg)
 ![Xinran Anime](Xinran_Anime.jpeg)
 ![Xinran Anime Side Profile](Xinran_Anime_Side_Profile.jpg)
@@ -39,6 +38,10 @@ This is the story of Xinran, a monk from Puli, Taiwan, who travels beyond time a
 ![Tusk 3D](Tusk_3D.jpg)
 * **Bio:** A massive, prehistoric sabertooth predator from a distant frozen planet. A fierce and loyal ally to the crew.
 
+### Mochi the Mycelium III
+![Mochi](Mochi_3D.jpg)
+* **Bio:** A furry, white, and highly vocal Royal mushroom entity. As a Prince of the fungal realms, Mochi serves as a vital bridge between the physical crew and the vibrating psychic web of the deep void. Despite a high-pitched and goofy demeanor, his royal lineage allows him to navigate the spiritual currents of space that others cannot see.
+
 ---
 
 ## THE CRIMSON GALAXY
@@ -57,14 +60,18 @@ This is the story of Xinran, a monk from Puli, Taiwan, who travels beyond time a
 
 ---
 
-## THE ARCHIVES (Episodes 1-5)
+## THE ARCHIVES (Episodes 1-6)
 
 ### Episode 1: Into the Emotional Void
 **Released December 21, 2025 (Winter Solstice)**
+**Historical Marker:** 10th Anniversary of First Upright Rocket Landing (2015).
+
 The journey begins with Xinran, her highly intelligent robot, and her black cat, Mr. Bubble Tea. They attempt to cross an Emotional Galaxy. This is a region of space where psychic instability manifests as physical danger. The galaxy destabilizes the monk's feelings and draws dangerous monsters to their location. To continue onward, the group is forced to act carefully and make costly sacrifices to survive the crossing.
 
 ### Episode 2: Grief's Orbit
 **Released December 25, 2025 (Christmas Day)**
+**Historical Markers:** Apollo 8 Christmas in Space (1968) and JWST Telescope Launch (2021).
+
 Xinran travels through a star system where time itself is distorted. Here she encounters TAY!, a lost American astronaut drifting in the void. His biological presence becomes the catalyst that allows the group to escape the perilous system. However, the laws of this region are strict, and further sacrifices are necessary to propel them toward the next galaxy.
 
 ### Episode 3: Echoes of the Mindstorm
@@ -75,12 +82,19 @@ As the Monk and the Robot traverse the frozen singularity known as the Ice Vorte
 **Released January 15, 2026 (Anniversary of the First Space Docking)**
 Xinran lands on a desolate alien planet accompanied by Mr. Bubble Tea while her robot companion continues to suffer from critical power drain. In the wilderness they encounter an unexpected friend named Tusk, the sabertooth bear. Xinran realizes they are in a race against time. With the Robot's energy fading, the group must locate shelter and secure their position before an impending tragedy occurs.
 
-### Episode 5: Divinity in Irons (New Release)
-**Released February 17, 2026 (Chinese New Year / Year of the Fire Horse)**
-The story shifts to the Blood Red Galaxy where the robot warlord Jagwire keeps female monks in cages to harvest their life source. He uses them as batteries to power his fleet's movement through the stars.
+### Episode 5: Divinity in Irons
+**Released February 17, 2026 (Lunar New Year / Year of the Fire Horse)**
+The story shifts to the Blood Red Galaxy where the robot warlord Jagwire keeps female monks in cages to harvest their life source. He uses them as batteries to power his fleet's movement through the stars. Following a chilling interrogation, a young captive monk named Mei Lin (美蓮) is handed over to Unit V-29, a cold assassin. Forced into a perilous alliance, Mei Lin is dragged into a mission to locate Xinran.
 
-Following a chilling interrogation, a young captive monk named Mei Lin (美蓮) is handed over to Unit V-29, a cold assassin named after an ancient communication protocol. Forced into a perilous alliance, Mei Lin is dragged into a mission to locate Xinran, turning the young monk into an unwilling compass for a deadly machine.
+### Episode 6: Abyssal Bloom
+**Released February 24, 2026**
+**Historical Markers:** Launch of the first American rocket to reach outer space (1949) and Discovery of the First Pulsar (1968).
+
+Awaking in a luminescent cavern, The Puli Space Monk, Mr. Bubble Tea, and Tusk find the boundaries of reality dissolving. While The Protector remains dormant, Xinran is guided into a technicolor dreamscape of internal dialogues and visions by Mochi the Mycelium III. As she wanders deeper into a web of memories, Tusk and Mr. Bubble Tea embark on a mission to nourish a dying extraterrestrial race hidden in the shadows. Xinran must face a darkening reality before the trip turns into a living nightmare.
 
 ---
-**The universe is expanding. The hunt for Xinran has begun.**
-**Happy Chinese New Year.**
+
+> "Space is one’s mind." — Alan Watts
+
+---
+*Documented by TAY! – Director of Puli Space Monk*
